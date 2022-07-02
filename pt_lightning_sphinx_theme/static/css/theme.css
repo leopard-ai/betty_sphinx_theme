@@ -10734,7 +10734,7 @@ a:link,
 a:visited,
 a:hover {
   text-decoration: none;
-  color: #792ee5;
+  color: #f48700;
 }
 
 a.with-right-arrow, .btn.with-right-arrow {
@@ -10754,23 +10754,23 @@ a.with-right-arrow, .btn.with-right-arrow {
 }
 
 ::-webkit-input-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 ::-moz-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 :-ms-input-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 :-moz-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 .email-subscribe-form input.email {
-  color: #792ee5;
+  color: #f48700;
   border: none;
   border-bottom: 1px solid #939393;
   width: 100%;
@@ -10821,7 +10821,7 @@ a.with-right-arrow, .btn.with-right-arrow {
 }
 
 .badge-primary {
-  background-color: #792ee5;
+  background-color: #f48700;
 }
 
 .badge-secondary {
@@ -11008,7 +11008,7 @@ pre {
 .header-holder .main-menu ul li.active:after {
   content: "•";
   bottom: -24px;
-  color: #792ee5;
+  color: #f48700;
   font-size: 1.375rem;
   left: 0;
   position: absolute;
@@ -11016,12 +11016,12 @@ pre {
   text-align: center;
 }
 .header-holder .main-menu ul li.active a {
-  color: #792ee5;
+  color: #f48700;
 }
 .header-holder .main-menu ul li.docs-active:after {
   content: "•";
   bottom: -24px;
-  color: #792ee5;
+  color: #f48700;
   font-size: 1.375rem;
   left: -24px;
   position: absolute;
@@ -11043,7 +11043,7 @@ pre {
 }
 @media screen and (min-width: 1100px) {
   .header-holder .main-menu ul li a:hover {
-    color: #792ee5;
+    color: #f48700;
   }
 }
 
@@ -11098,7 +11098,7 @@ pre {
   text-decoration: none;
 }
 .mobile-main-menu.open ul li.active a {
-  color: #792ee5;
+  color: #f48700;
 }
 
 .main-menu-close-button {
@@ -11175,7 +11175,7 @@ pre {
 }
 @media screen and (min-width: 768px) {
   .site-footer a:hover {
-    color: #792ee5;
+    color: #f48700;
   }
 }
 
@@ -11237,7 +11237,7 @@ pre {
 }
 .docs-tutorials-resources a {
   font-size: 1.125rem;
-  color: #792ee5;
+  color: #f48700;
 }
 .docs-tutorials-resources a:hover {
   color: #ffffff;
@@ -11486,7 +11486,7 @@ p {
 p a:link,
 p a:visited,
 p a:hover {
-  color: #792ee5;
+  color: #f48700;
   text-decoration: none;
 }
 @media screen and (min-width: 768px) {
@@ -11497,11 +11497,11 @@ p a:hover {
 p a:link,
 p a:visited,
 p a:hover {
-  color: #792ee5;
+  color: #f48700;
 }
 
 .wy-breadcrumbs li a {
-  color: #792ee5;
+  color: #f48700;
 }
 
 ul.pytorch-breadcrumbs {
@@ -11513,7 +11513,7 @@ ul.pytorch-breadcrumbs li {
   font-size: 0.875rem;
 }
 ul.pytorch-breadcrumbs a {
-  color: #792ee5;
+  color: #f48700;
   text-decoration: none;
 }
 
@@ -11579,11 +11579,11 @@ ul.pytorch-breadcrumbs a {
   display: none;
 }
 .rst-content footer .rating-container .rating-prompt.yes-link, .rst-content footer .rating-container .rating-prompt.no-link {
-  color: #792ee5;
+  color: #f48700;
   cursor: pointer;
 }
 .rst-content footer .rating-container .rating-prompt.yes-link:hover, .rst-content footer .rating-container .rating-prompt.no-link:hover {
-  background-color: #792ee5;
+  background-color: #f48700;
   color: #ffffff;
 }
 .rst-content footer .rating-container .stars-outer {
@@ -11596,7 +11596,7 @@ ul.pytorch-breadcrumbs a {
   cursor: pointer;
 }
 .rst-content footer .rating-container .stars-outer .star-fill {
-  color: #792ee5;
+  color: #f48700;
 }
 .rst-content footer div[role=contentinfo] {
   padding-top: 2.5rem;
@@ -11692,7 +11692,7 @@ article.pytorch-article .section:first-of-type h1:first-of-type {
   background-color: green;
 }
 .left-menu-link:hover {
-  background-color: #792ee5;
+  background-color: #f48700;
 }
 
 article.pytorch-article .sphx-glr-thumbcontainer {
@@ -11768,7 +11768,7 @@ article.pytorch-article .sphx-glr-thumbcontainer .figure a.reference.internal {
     position: absolute;
     bottom: -1px;
     left: 5px;
-    background-color: #792ee5;
+    background-color: #f48700;
     -webkit-transition: width 0.25s ease-in-out;
     transition: width 0.25s ease-in-out;
   }
@@ -11778,7 +11778,7 @@ article.pytorch-article .sphx-glr-thumbcontainer .figure a.reference.internal {
 }
 @media screen and (min-width: 768px) {
   article.pytorch-article .sphx-glr-thumbcontainer:after {
-    background-color: #792ee5;
+    background-color: #f48700;
   }
 }
 
@@ -11799,7 +11799,7 @@ article.pytorch-article .function dt, article.pytorch-article .class dt, article
   position: relative;
   background: #f3f4f7;
   padding: 0.5rem;
-  border-left: 3px solid #792ee5;
+  border-left: 3px solid #f48700;
   word-wrap: break-word;
   padding-right: 100px;
 }
@@ -11819,7 +11819,7 @@ article.pytorch-article .function dt a, article.pytorch-article .class dt a, art
           transform: perspective(1px) translateY(-50%);
 }
 article.pytorch-article .function dt:hover .viewcode-link, article.pytorch-article .class dt:hover .viewcode-link, article.pytorch-article .attribute dt:hover .viewcode-link, article.pytorch-article .method dt:hover .viewcode-link {
-  color: #792ee5;
+  color: #f48700;
 }
 article.pytorch-article .function .anchorjs-link, article.pytorch-article .class .anchorjs-link, article.pytorch-article .attribute .anchorjs-link, article.pytorch-article .method .anchorjs-link {
   display: inline;
@@ -11892,7 +11892,7 @@ article.pytorch-article .attribute .has-code {
 }
 article.pytorch-article .class dt {
   border-left: none;
-  border-top: 3px solid #792ee5;
+  border-top: 3px solid #f48700;
   padding-left: 4em;
 }
 article.pytorch-article .class dt em.property {
@@ -11905,7 +11905,7 @@ article.pytorch-article .class dd .docutils dt {
 article.pytorch-article .class em.property {
   text-transform: uppercase;
   font-style: normal;
-  color: #792ee5;
+  color: #f48700;
   font-size: 1rem;
   letter-spacing: 0;
   padding-right: 0.75rem;
@@ -11917,7 +11917,7 @@ article.pytorch-article .class dl dt em.property {
 }
 article.pytorch-article .class .method dt,
 article.pytorch-article .class .staticmethod dt {
-  border-left: 3px solid #792ee5;
+  border-left: 3px solid #f48700;
   border-top: none;
 }
 article.pytorch-article .class .method dt,
@@ -12204,7 +12204,7 @@ article.pytorch-article .admonition > p:last-of-type {
     position: absolute;
     bottom: -1px;
     left: 5px;
-    background-color: #792ee5;
+    background-color: #f48700;
     -webkit-transition: width 0.25s ease-in-out;
     transition: width 0.25s ease-in-out;
   }
@@ -12214,7 +12214,7 @@ article.pytorch-article .admonition > p:last-of-type {
 }
 @media screen and (min-width: 768px) {
   .pytorch-article div.sphx-glr-download a:after {
-    background-color: #792ee5;
+    background-color: #f48700;
   }
 }
 @media screen and (min-width: 768px) {
@@ -12284,7 +12284,7 @@ article.pytorch-article .wy-table-responsive table tbody td {
 }
 article.pytorch-article .wy-table-responsive table tbody td .pre {
   background: #ffffff;
-  color: #792ee5;
+  color: #f48700;
   font-size: 87.5%;
 }
 article.pytorch-article .wy-table-responsive table tbody td code {
@@ -12371,33 +12371,33 @@ article.pytorch-article .math img {
 a:link,
 a:visited,
 a:hover {
-  color: #792ee5;
+  color: #f48700;
 }
 
 ::-webkit-input-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 ::-moz-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 :-ms-input-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 :-moz-placeholder {
-  color: #792ee5;
+  color: #f48700;
 }
 
 @media screen and (min-width: 768px) {
   .site-footer a:hover {
-    color: #792ee5;
+    color: #f48700;
   }
 }
 
 .docs-tutorials-resources a {
-  color: #792ee5;
+  color: #f48700;
 }
 
 .header-holder {
@@ -12406,19 +12406,19 @@ a:hover {
 }
 
 .header-holder .main-menu ul li.active:after {
-  color: #792ee5;
+  color: #f48700;
 }
 .header-holder .main-menu ul li.active a {
-  color: #792ee5;
+  color: #f48700;
 }
 @media screen and (min-width: 1100px) {
   .header-holder .main-menu ul li a:hover {
-    color: #792ee5;
+    color: #f48700;
   }
 }
 
 .mobile-main-menu.open ul li.active a {
-  color: #792ee5;
+  color: #f48700;
 }
 
 .version {
@@ -12463,7 +12463,7 @@ a:hover {
   cursor: pointer;
 }
 .pytorch-call-to-action-links a:hover {
-  color: #792ee5;
+  color: #f48700;
 }
 .pytorch-call-to-action-links a .call-to-action-desktop-view {
   display: none;
@@ -12495,8 +12495,8 @@ a:hover {
 }
 .pytorch-call-to-action-links a #google-colab-link:hover, .pytorch-call-to-action-links a #download-notebook-link:hover,
 .pytorch-call-to-action-links a #github-view-link:hover {
-  border-bottom-color: #792ee5;
-  color: #792ee5;
+  border-bottom-color: #f48700;
+  color: #f48700;
 }
 
 .slack-container {
@@ -12506,7 +12506,7 @@ a:hover {
 }
 .slack-container .slack-button {
   border: 1px solid transparent;
-  background: linear-gradient(206.91deg, #792EE5 16.83%, #3EABB3 144.59%);
+  background: linear-gradient(206.91deg, #f48700 16.83%, #3EABB3 144.59%);
   border-radius: 6px;
   height: 30px;
   width: 210px;
@@ -12718,7 +12718,7 @@ a:hover {
     position: absolute;
     bottom: -1px;
     left: 5px;
-    background-color: #792ee5;
+    background-color: #f48700;
     -webkit-transition: width 0.25s ease-in-out;
     transition: width 0.25s ease-in-out;
   }
@@ -12754,7 +12754,7 @@ a:hover {
   color: #979797;
 }
 #tutorial-cards-container .tutorial-filter-menu ul li a:hover {
-  color: #792ee5;
+  color: #f48700;
 }
 #tutorial-cards-container .tutorial-filter {
   cursor: pointer;
@@ -12773,12 +12773,12 @@ a:hover {
   margin-bottom: 5px;
 }
 #tutorial-cards-container .filter-btn:hover {
-  border: 1px solid #792ee5;
-  color: #792ee5;
+  border: 1px solid #f48700;
+  color: #f48700;
 }
 #tutorial-cards-container .filter-btn.selected {
-  background-color: #792ee5;
-  border: 1px solid #792ee5;
+  background-color: #f48700;
+  border: 1px solid #f48700;
   color: #ffffff;
 }
 #tutorial-cards-container .all-tag-selected {
@@ -12824,7 +12824,7 @@ article.pytorch-article .display-card-container h3 {
     position: absolute;
     top: calc(100% - 12px);
     left: 15px;
-    background-color: #792ee5;
+    background-color: #f48700;
     -webkit-transition: width 0.25s ease-in-out;
     transition: width 0.25s ease-in-out;
   }
@@ -12837,8 +12837,8 @@ article.pytorch-article .display-card-container .card-tag {
   bottom: 17px;
   left: 15px;
   padding: 2px 3px 2px 3px;
-  border: 1px solid #792ee5;
-  color: #792ee5;
+  border: 1px solid #f48700;
+  color: #f48700;
   border-radius: 4px;
   font-size: 10px;
   font-weight: 500;
@@ -12900,7 +12900,7 @@ article.pytorch-article .tutorials-callout-container .text-container {
     position: absolute;
     top: calc(100% - 12px);
     left: 15px;
-    background-color: #792ee5;
+    background-color: #f48700;
     -webkit-transition: width 0.25s ease-in-out;
     transition: width 0.25s ease-in-out;
   }
@@ -12935,7 +12935,7 @@ article.pytorch-article .tutorials-callout-container .text-container-small {
     position: absolute;
     top: calc(100% - 22px);
     left: 15px;
-    background-color: #792ee5;
+    background-color: #f48700;
     -webkit-transition: width 0.25s ease-in-out;
     transition: width 0.25s ease-in-out;
   }
@@ -12973,7 +12973,7 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button {
     position: absolute;
     bottom: -1px;
     left: 5px;
-    background-color: #792ee5;
+    background-color: #f48700;
     -webkit-transition: width 0.25s ease-in-out;
     transition: width 0.25s ease-in-out;
   }
@@ -13224,8 +13224,8 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
   text-align: left;
 }
 .pytorch-left-menu p.caption:hover {
-  background-color: #EFEEFF;
-  color: #4F00BA;
+  background-color: #fff6eb;
+  color: #E8720C;
 }
 
 .pytorch-left-menu-search {
@@ -13366,8 +13366,8 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
 .pytorch-right-menu a:link.reference.internal:hover,
 .pytorch-right-menu a:visited.reference.internal:hover,
 .pytorch-right-menu a:hover.reference.internal:hover {
-  background-color: #EFEEFF;
-  color: #4F00BA;
+  background-color: #fff6eb;
+  color: #E8720C;
 }
 .pytorch-left-menu a:link.reference.external,
 .pytorch-left-menu a:visited.reference.external,
@@ -13388,8 +13388,8 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
 .pytorch-right-menu a:link.reference.external:hover,
 .pytorch-right-menu a:visited.reference.external:hover,
 .pytorch-right-menu a:hover.reference.external:hover {
-  background-color: #EFEEFF;
-  color: #4F00BA;
+  background-color: #fff6eb;
+  color: #E8720C;
 }
 .pytorch-left-menu li code,
 .pytorch-right-menu li code {
@@ -13422,7 +13422,7 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
 }
 .pytorch-left-menu li.toctree-l1.current > a,
 .pytorch-right-menu li.toctree-l1.current > a {
-  color: #792ee5;
+  color: #f48700;
 }
 .pytorch-left-menu li.toctree-l1.current > a:before,
 .pytorch-right-menu li.toctree-l1.current > a:before {
@@ -13430,7 +13430,7 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
   display: block;
   width: 2px;
   height: 100%;
-  background: #792ee5;
+  background: #f48700;
   left: -5px;
   top: 0;
   position: absolute;
@@ -13514,14 +13514,14 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
   left: -12px;
 }
 .pytorch-right-menu li.active > a {
-  color: #792ee5;
+  color: #f48700;
 }
 .pytorch-right-menu li.active > a span.pre, .pytorch-right-menu li.active > a:before {
-  color: #792ee5;
+  color: #f48700;
 }
 .pytorch-right-menu li.active > a:after {
   content: "•";
-  color: #792ee5;
+  color: #f48700;
   display: inline-block;
   font-size: 1.375rem;
   left: -17px;
@@ -13583,7 +13583,7 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
 }
 
 #pytorch-right-menu .side-scroll-highlight {
-  color: #792ee5;
+  color: #f48700;
 }
 
 .header-container {
@@ -13780,7 +13780,7 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
   border-bottom-color: transparent;
 }
 .main-menu ul li .dropdown-menu .dropdown-item:hover {
-  background-color: #792ee5;
+  background-color: #f48700;
 }
 .main-menu ul li .dropdown-menu .dropdown-item p {
   font-size: 1rem;
@@ -13865,8 +13865,8 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
   border-bottom-color: transparent;
 }
 .header-holder .main-menu ul li a.nav-dropdown-item:hover {
-  background-color: #EFEEFF;
-  color: #792ee5;
+  background-color: #fff6eb;
+  color: #f48700;
 }
 .header-holder .main-menu ul li a.nav-dropdown-item .dropdown-title {
   font-family: UCity;
@@ -13878,7 +13878,7 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
 
 .header-holder .main-menu ul li a.nav-dropdown-item:hover .dropdown-title {
   background-color: hover_background;
-  color: #792ee5;
+  color: #f48700;
 }
 
 /*# sourceMappingURL=theme.css.map */

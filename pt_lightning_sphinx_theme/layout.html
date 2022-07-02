@@ -120,12 +120,6 @@
             <a href="{{ theme_variables.external_urls['get_started'] }}">Get Started</a>
           </li>
 
-          <li {%- if theme_pytorch_project == 'docs' %} class="active docs-active"{% endif %}>
-              <a class="resource-option with-down-orange-arrow">
-                Docs
-              </a>
-          </li>
-
           <li>
             <a href="{{ theme_variables.external_urls['github'] }}">GitHub</a>
           </li>
@@ -178,7 +172,7 @@
               toctree is empty. Skip building this for now.
             #}
             {% if 'singlehtml' not in builder %}
-              {% set global_toc = toctree(maxdepth=1,
+              {% set global_toc = toctree(maxdepth=2,
                                           collapse=theme_collapse_navigation|tobool,
                                           includehidden=theme_includehidden|tobool,
                                           titles_only=theme_titles_only|tobool) %}
@@ -186,7 +180,6 @@
             {% if global_toc %}
               {{ global_toc }}
             {% else %}
-              <!-- Local TOC -->
               <div class="local-toc">{{ toc }}</div>
             {% endif %}
           {% endblock %}
@@ -336,10 +329,6 @@
         <ul>
           <li>
             <a href="{{ theme_variables.external_urls['get_started'] }}">Get Started</a>
-          </li>
-
-          <li class="resources-mobile-menu-title" {%- if theme_pytorch_project == 'docs' %} class="active"{%- endif %}>
-            Docs
           </li>
 
           <li>
